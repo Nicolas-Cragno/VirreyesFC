@@ -1,0 +1,99 @@
+body {
+	font-family: 'Baloo 2', cursive;
+}
+
+header {
+	height: 64px;
+	background: black;
+}
+
+.logo {
+	padding: 20px;
+	width: 200px;
+}
+
+nav ul {
+	float: right;
+	margin-right: 20px;
+	padding: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	padding: 10px;
+	color: white;
+	text-transform: uppercase;
+}
+
+.jugadores {
+	width: 100%;
+	background: url(../images/azul-blanco-1.jpg) center fixed;
+	background-size: cover;
+}
+.centrado {
+	text-align: center;
+}
+
+.espacios{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.content {
+	text-align: center;
+	padding: 10px;
+}
+
+.pic {
+	background: #536DFE;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+
+.pic2 {
+	background: #212121;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+
+.card {
+	background: #eeeeee;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 14);
+}
+
+.card2 {
+	background: #BDBDBD;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 14);
+}
+
+.card3 {
+	background: #BDBDBD;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 14);
+}
+
+.instagram {
+	color: red;
+}
+
+.retirados {
+	width: 100%;
+	background: #757575;
+	background-size: cover;
+}
+
+.titulo {
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+.estructura {
+	width: 100%;
+	background: #536DFE;
+	background-size: cover;
+}
